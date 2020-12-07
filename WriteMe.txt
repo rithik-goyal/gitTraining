@@ -1,3 +1,4 @@
 Line 1
 Line 2 editited from remote
 3rd line from remote
+4th line from remote
